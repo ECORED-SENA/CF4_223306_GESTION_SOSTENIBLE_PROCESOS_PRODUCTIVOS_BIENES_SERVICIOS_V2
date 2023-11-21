@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Estrategias de economía circular y evaluación de la eficacia de alternativas implementadas'
