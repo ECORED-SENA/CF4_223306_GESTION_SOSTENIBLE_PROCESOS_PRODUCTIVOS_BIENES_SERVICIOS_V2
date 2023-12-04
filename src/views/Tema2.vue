@@ -152,7 +152,7 @@
             .row
               .col-md-4.mb-4.mb-md-0
                 h4 Objetivos de Desarrollo Sostenible
-                p Permite ver en qué medida los ODS (Objetivos de Desarrollo Sostenible) están incorporados en tu estrategia.
+                p Permite ver en qué medida los ODS (Objetivos de Desarrollo Sostenible) están incorporados en la estrategia.
               .col-md-8
                 img(src='@/assets/curso/temas/t2/slider-img5.png', alt='')   
         .row.justify-content-center
@@ -237,13 +237,13 @@
             th.p-0.m-0
         tbody
           tr.bg-2
-            td Equipos y elementos que no pagan IVA
+            td.fw-bold Equipos y elementos que no pagan IVA
             td Adquisición de equipos y elementos para sistemas de monitoreo y control ambiental, importación de equipos para reciclaje y tratamiento de basura, filtrado y tratamiento de aguas servidas, emisiones o residuos sólidos, y para otros proyectos. Los proyectos para reducir las emisiones de gases de efecto invernadero, así como los equipos para convertir vehículos a gas natural no están sujetos al IVA. El ahorro para los empresarios es del 16% del valor de la compra de equipos (artículos 424-5 numeral 4 y 428 letras “f” e “i” del Código Tributario).
           tr
-            td Deducción en la base de impuesto a la renta
+            td.fw-bold Deducción en la base de impuesto a la renta
             td El valor de la inversión en control y mejoramiento ambiental puede ser deducido de la base de ingresos hasta un monto que no exceda el 20% de los ingresos netos (Artículo 158-2 del Código Tributario Colombiano).
           tr.bg-2
-            td Rentas exentas
+            td.fw-bold Rentas exentas
             td Están exentos del pago del impuesto sobre la renta la venta de energía generada a partir de recursos eólicos, biomasa o subproductos agrícolas que reduzcan las emisiones de gases de efecto invernadero y la venta de certificados de reducción de emisiones de CO2, así como las rentas por servicios energéticos ecoturísticos (artículos 207-2) N°1 y N°5 del Código Tributario Colombiano).
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.mb-4
@@ -263,7 +263,7 @@
       .col-lg-5.col-9.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/img5.png' alt='')
       .col-lg-7.mb-4(data-aos="fade-left")
-        p Eco Innovación se refiere a la innovación ambiental, como la palabra lo indica, es cualquier forma de innovación que coopere con el desarrollo sostenible, reduzca el impacto ambiental y mejore el uso de los recursos. En términos de innovación, la innovación ambiental implica la construcción de productos y procesos que reduzcan la degradación ambiental. Desde una perspectiva económica, la innovación ambiental espera que las organizaciones hagan un buen uso de los recursos naturales para mejorar la paz humana.
+        p Ecoinnovación se refiere a la innovación ambiental, como la palabra lo indica, es cualquier forma de innovación que coopere con el desarrollo sostenible, reduzca el impacto ambiental y mejore el uso de los recursos. En términos de innovación, la innovación ambiental implica la construcción de productos y procesos que reduzcan la degradación ambiental. Desde una perspectiva económica, la innovación ambiental espera que las organizaciones hagan un buen uso de los recursos naturales para mejorar la paz humana.
         p Los objetivos planteados en la ecoinnovación buscan fomentar el desarrollo de nuevas ideas que puedan implementarse en la economía, optimizando el uso de los recursos naturales actuales y preservándolos al mismo tiempo. En este contexto, se pueden emplear tecnologías que contribuyan a la sostenibilidad.
 
     p.mb-4(data-aos="fade") En relación con la ecoinnovación, se ha avanzado significativamente en los últimos años. Un ejemplo de ello es la Unión Europea, que ha establecido el Plan de Acción sobre Ecoinnovación (2011). Este plan propone siete acciones fundamentales destinadas a orientar las iniciativas de empresas y Estados en materia de ecoinnovación. A continuación, se presentan estas siete acciones:
@@ -333,7 +333,7 @@
               .col-lg-4
                 img(src='@/assets/curso/temas/t2/linea-img7.png', alt='')
 
-    p.mb-4(data-aos="fade") La eco innovación es muy importante para la sociedad actualmente, lleva al desarrollo de nuevas fuentes de energías que buscan brindar soluciones a los problemas actuales que van deteriorando con el planeta, es por eso que hoy en día la gran mayoría de proyectos tienen que ver con el medio ambiente ya que son los que más se tienen en cuenta y son beneficiados tributariamente por el gobierno ayudando a crecer, estas ideas que contribuyen a una mejor eficiencia y productividad en los emprendedores.
+    p.mb-4(data-aos="fade") La ecoinnovación desempeña un papel, impulsando el desarrollo de nuevas fuentes de energía destinadas a ofrecer soluciones a los problemas ambientales que afectan progresivamente al planeta. En la actualidad, la gran mayoría de los proyectos están relacionados con el medio ambiente, ya que son los que reciben mayor atención y respaldo, incluidos beneficios tributarios por parte del gobierno, facilitando su crecimiento. Estas iniciativas contribuyen significativamente a mejorar la eficiencia y la productividad de los emprendedores, fortaleciendo sus capacidades para generar un impacto positivo en la sociedad y el entorno.
 
     .row.bg-acento-contenido.align-items-center.py-4(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-5.px-4
@@ -341,7 +341,7 @@
           .col-lg-2.col-md-2.col-4.mb-3.mb-md-0
             img.m-auto(src='@/assets/curso/temas/t4/dest.svg' alt='' style="width: 130px;")
           .col-lg-9.col-md-10
-            p.mb-0.text-white Para ampliar el tema sobre la eco innovación, se recomienda ver el video sobre: “Eco-Innovación.” Que se encuentra en el material complementario de este componente formativo.
+            p.mb-0.text-white Para ampliar el tema se recomienda ver el video: “Ecoinnovación" que se encuentra en el material complementario de este componente formativo.
 
 
     Separador
@@ -367,7 +367,7 @@
             figure
               img(src='@/assets/curso/temas/t2/fig4.svg', alt='Un producto de ecodiseño utiliza menos material, es fácilmente reciclable, incorpora materiales biológicos, es duradero, multifuncional y reutilizable. Además, reduce emisiones y es innovador en su diseño.')
 
-    p(data-aos="fade") Una de las características más importantes de un producto de eco diseño es el mensaje que transmite, el cual debe ser ecológico, de tal forma que genere conciencia ambiental en el usuario, quien al hacer compra y uso de ese producto debe sentir que está salvando el mundo.
+    p(data-aos="fade") Una de las características más importantes de un producto de ecodiseño es el mensaje que transmite, el cual debe ser ecológico, de tal forma que genere conciencia ambiental en el usuario, quien al hacer compra y uso de ese producto debe sentir que está salvando el mundo.
 
     h5.mb-4(data-aos="fade") El ecodiseño tiene que ver con el diseño sostenible, el cual tiene su propia normativa, las normas más comunes de ecodiseño a nivel global son las siguientes:
 
@@ -380,7 +380,7 @@
             .text.p-lg-2.p-3
               .row.text-center.px-2.px-lg-4.pt-1.mt-3.mt-md-2.pt-md-0.mt-lg-3.mt-xl-4
                 .h4.mt-2.mb-3 #[em Cradle to Cradle] (C2C)
-                p #[em Cradle to cradle] se puede definir como el diseño y producción de productos de todo tipo de tal manera que al final de su vida, puedan ser verdaderamente reciclados (upcycled), imitando el ciclo de la naturaleza con todo reciclado o devuelto a la tierra, directa o indirectamente a través de los alimentos, como un completamente seguro y no tóxico.
+                p #[em Cradle to cradle] se puede definir como el diseño y producción de productos de todo tipo de tal manera que al final de su vida, puedan ser verdaderamente reciclados (#[em upcycled]), imitando el ciclo de la naturaleza con todo reciclado o devuelto a la tierra, directa o indirectamente a través de los alimentos, como un completamente seguro y no tóxico.
       .col-lg-4.col-md-6.mb-4
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0(@mouseover="mostrarIndicador = false")

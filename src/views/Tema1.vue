@@ -39,7 +39,7 @@
         img(src='@/assets/curso/temas/t1/img.png' alt='')
       .col-lg-8.mb-4(data-aos="fade-left")
         p El modelo de negocio es fundamental para entender los alcances de la empresa y prevenir inversiones erróneas, protegiendo así los intereses de la organización. Esta herramienta de investigación facilita la identificación clara de la naturaleza de la empresa y del usuario dentro del contexto del mercado. Dada su amplitud, existen diversos tipos de modelos de negocio. En este contexto y para fines formativos, nos centraremos en el modelo de negocio circular. En pocas palabras, los modelos de negocio encapsulan el conjunto de ideas, estrategias y principios que las organizaciones utilizan para crear valor.
-        p En Colombia se viene trabajando el sustento de la economía con este tipo de modelos como lo dice MinAmbiente (2020) 
+        p En Colombia se viene trabajando el sustento de la economía con este tipo de modelos, como lo dice MinAmbiente (2020) 
           span.t-brown.fw-bold “la economía circular abre oportunidades para un abanico de nuevos modelos de negocio a partir de innovaciones tecnológicas, servicios de desmaterialización y productos nuevos que aumentan las posibilidades de nuevos ciclos de transformación en sistemas industriales” 
           | por ende los emprendimientos nacionales y las empresas ven grandes oportunidades en este medio. Un modelo de negocio circular se fundamenta en el análisis y desarrollo, a partir de su concepción, de cada una de las probables recirculaciones de elementos y materiales y la reducción o supresión de residuos, durante todo el periodo de vida del producto.
     
@@ -100,7 +100,7 @@
           .col-lg-2.col-md-2.col-4.mb-3.mb-md-0
             img.m-auto(src='@/assets/curso/temas/t1/dest.svg' alt='' style="width: 130px;")
           .col-lg-10.col-md-10
-            p.mb-0 Para ampliar el tema sobre el Modelo de negoció en la implementación de la economía circular, se recomienda ver el video sobre: “La Economía circular en la empresa y nuevas modelos de negocio” que se encuentra relacionado en el material complementario.
+            p.mb-0 Para ampliar el tema sobre el Modelo de negocio en la implementación de la economía circular, se recomienda ver el video sobre: “La Economía circular en la empresa y nuevas modelos de negocio” que se encuentra relacionado en el material complementario.
 
 
     Separador
@@ -190,9 +190,9 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/t1/img3.png')})`}")
           .bloque-texto-g__texto.p-4
-            p.mb-0 La inversión de impacto también es una ganancia financiera ya que los costos sociales van de la mano con los beneficios financieros. Una indagación de un rendimiento financiero no califica una inversión social en una donación caritativa o una donación no reembolsable. Lo que distingue a la inversión social de la inversión tradicional es que la rentabilidad financiera está estrechamente relacionada con el desempeño social y depende del logro de los objetivos sociales: específicamente, los inversores solo recibirán productividad y rentabilidad financiera si esto se logra a eso se le puede llamar mínimo impacto social.
+            p.mb-0 La inversión de impacto también es una ganancia financiera, ya que los costos sociales van de la mano con los beneficios financieros. Una indagación de un rendimiento financiero no califica una inversión social en una donación caritativa o una donación no reembolsable. Lo que distingue a la inversión social de la inversión tradicional es que la rentabilidad financiera está estrechamente relacionada con el desempeño social y depende del logro de los objetivos sociales: específicamente, los inversores solo recibirán productividad y rentabilidad financiera si esto se logra a eso se le puede llamar mínimo impacto social.
 
-    p.mb-4(data-aos="fade") El impacto social debe ser medido y convertido en métricas financieras, las inversiones de impacto deben perseguir impactos que sean medibles en su proyección como se muestra en la siguiente infografía:
+    p.mb-4(data-aos="fade") El impacto social debe ser medido y convertido en métricas financieras, , como se muestra en la siguiente infografía:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -204,7 +204,7 @@
 
     .row.align-items-center.justify-content-center
       .col-lg-8.mb-4(data-aos="fade-right")
-        p Las inversiones de impacto resultan atractivas para las empresas no solo porque persiguen generar retornos financieros, sino también debido a su impacto ambiental y social positivo. Dichas inversiones poseen un carácter transformador y se distinguen porque buscan inducir un cambio positivo; además, evitan los impactos negativos asociados a la inversión en términos medioambientales y de sostenibilidad. En Colombia, como señala Daniel Uribe de AFE, las empresas muestran una creciente preferencia por este tipo de inversión. Esto se debe a la existencia de distintos tipos de actores, cada uno con sus propias motivaciones, expectativas y enfoques, los cuales se coordinan para crear iniciativas orientadas a la inversión de impacto. En este contexto colombiano, existen 32 actores involucrados en el ecosistema de inversión de impacto, y el 10% de ellos son fundaciones. Asimismo, se disponen de diversos mecanismos para llevar a cabo la inversión de impacto, incluyendo fondos de inversión, fondos de inversión de impacto, estrategias de Blended Finance y bonos de impacto social, entre otros (2018).
+        p Las inversiones de impacto resultan atractivas para las empresas no solo porque persiguen generar retornos financieros, sino también debido a su impacto ambiental y social positivo. Dichas inversiones poseen un carácter transformador y se distinguen porque buscan inducir un cambio positivo; además, evitan los impactos negativos asociados a la inversión en términos medioambientales y de sostenibilidad. En Colombia, como señala Daniel Uribe de AFE, las empresas muestran una creciente preferencia por este tipo de inversión. Esto se debe a la existencia de distintos tipos de actores, cada uno con sus propias motivaciones, expectativas y enfoques, los cuales se coordinan para crear iniciativas orientadas a la inversión de impacto. En este contexto colombiano, existen 32 actores involucrados en el ecosistema de inversión de impacto, y el 10% de ellos son fundaciones. Asimismo, se disponen de diversos mecanismos para llevar a cabo la inversión de impacto, incluyendo fondos de inversión, fondos de inversión de impacto, estrategias de #[em Blended Finance] y bonos de impacto social, entre otros (2018).
       .col-lg-4.col-7.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/img4.png', alt='')
 

@@ -96,7 +96,7 @@
             .bg-3.brr-10.h-100.p-4.d-flex.align-items-center
               p.mb-0 Indicadores de rentabilidad
 
-    p(data-aos="fade") En la rentabilidad es uno de los que más llama la atención de los inversores ya que de ahí se muestra al inversor con cifras exactas y de manera clara que tan rentable es el negocio.
+    p(data-aos="fade") En la rentabilidad es uno de los que más llama la atención de los inversores, ya que de ahí se muestra al inversor con cifras exactas y de manera clara que tan rentable es el negocio.
 
     h5.mb-4(data-aos="fade") La siguiente tabla comparte los indicadores financieros más frecuentes, la forma de tomarlos y la explicación de lo que obtiene con ellos:
 
@@ -135,7 +135,7 @@
       .col-lg-4.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/t6/img2.png' alt='')
       .col-lg-8.mb-4(data-aos="fade-left")
-        p Es una medida que puede ser de origen físico, químico, biológico, social o económico, que constituye una herramienta para informar sobre el estado del medio ambiente, con ello se puede evaluar la gestión de políticas, programas, tratados, etc… En los programas y proyectos ambientales el valor de los indicadores ambientales ayuda a los actores clave y tomadores de decisiones a tomar medidas y acciones oportunas en la gestión ambiental a nivel nacional, regional y local, permitiendo soluciones para evaluar y estudiar aspectos relevantes del estado del medio ambiente, la sostenibilidad de los recursos naturales y su interacción con la ocupación humana ya que muestra información respaldada científicamente sobre las condiciones ambientales y las tendencias del medio analizado.
+        p Es una medida que puede ser de origen físico, químico, biológico, social o económico, que constituye una herramienta para informar sobre el estado del medio ambiente, con ello se puede evaluar la gestión de políticas, programas, tratados, etc. En los programas y proyectos ambientales, el valor de los indicadores ambientales ayuda a los actores clave y tomadores de decisiones a tomar medidas y acciones oportunas en la gestión ambiental a nivel nacional, regional y local, permitiendo soluciones para evaluar y estudiar aspectos relevantes del estado del medio ambiente, la sostenibilidad de los recursos naturales y su interacción con la ocupación humana, ya que muestra información respaldada científicamente sobre las condiciones ambientales y las tendencias del medio analizado.
         h5 Las características de los indicadores ambientales son las siguientes:
         ul.lista-ul--color.fa-ul.mb-0
           li 
@@ -171,7 +171,7 @@
           img.mb-4(src="@/assets/curso/temas/t6/tarj-img2.png" alt="")
           .m-auto.bg-white.w-fit.text-center.br-21.px-5.py-2.mb-4
             h4.mb-0.text-center Tipo II:
-          p Se basan en cálculos de datos que provienen del monitoreo permanente, estos datos necesitan datos adicionales ya que los datos pueden estar total o parcialmente disponibles.
+          p Se basan en cálculos de datos que provienen del monitoreo permanente, estos datos necesitan datos adicionales, ya que los datos pueden estar total o parcialmente disponibles.
       .col-lg-4.col-md-6.mb-4
         .bg-3.h-100.p-4
           img.mb-4(src="@/assets/curso/temas/t6/tarj-img3.png" alt="")
@@ -304,7 +304,7 @@
               img.p-3(src='@/assets/curso/temas/t6/tarj3-ico3.svg', alt='')
           .col-8.ps-0
             .bg-8.brr-10.h-100.p-1.d-flex.align-items-center
-              p.mb-0 Sé crucial para lograr los objetivos de negocio, pero ser realista y alcanzable.
+              p.mb-0 Ser crucial para lograr los objetivos de negocio, pero ser realista y alcanzable.
       .col-lg-3.col-md-6.mb-4
         .row.justify-content-center
           .col-4.pe-0

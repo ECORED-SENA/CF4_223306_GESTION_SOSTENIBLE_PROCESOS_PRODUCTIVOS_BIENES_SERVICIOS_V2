@@ -235,13 +235,13 @@ export default {
         'https://www.icesi.edu.co/centros-academicos/images/Centros/Kairos/Archivos/sistesis-sellos.pdf',
     },
     {
-      tema: '2.2 Eco innovación',
+      tema: '2.2 Ecoinnovación',
       referencia: 'Grupo GEA (2017),Eco-Innovación.[video]',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=44fzIv7nYdM',
     },
     {
-      tema: '2.3 Eco diseño',
+      tema: '2.3 Ecodiseño',
       referencia: 'Un mundo tecnológico (2020), ¿Qué es el ecodiseño?[video]',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=MbaZdkHTBWU',
@@ -253,7 +253,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=u3ZvOiOw2yQ',
     },
     {
-      tema: '5.Sistema de costo',
+      tema: '5. Sistema de costo',
       referencia:
         'Morillo Moreno, Marisela. Diseño de Sistemas de Costeo: Fundamentos Teóricos. Actualidad Contable FACES. Año 5 No.5, enero-junio 2002. Mérida. Venezuela. (7-22)',
       tipo: 'Artículo',
@@ -276,7 +276,7 @@ export default {
     {
       termino: 'Ecodiseño',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático. Es una estrategia de la economía circular en la que su objetivo principal es prolongar indefinidamente el valor de los productos.',
+        'es un enfoque en la creación de productos y servicios que minimiza el impacto ambiental considerando todo el ciclo de vida, desde la producción hasta el final de su uso. Es fundamental en la economía circular para extender la vida útil de los productos y reducir residuos.',
     },
     {
       termino: 'Ecoinnovación',
@@ -356,7 +356,7 @@ export default {
     },
     {
       referencia:
-        'MinAmbiente. (2022). Conozca los beneficios tributarios para empresas que ayuden a proteger el medio ambiente.',
+        'MinAmbiente. (2022). <em>Conozca los beneficios tributarios para empresas que ayuden a proteger el medio ambiente</em>.',
       link:
         'https://www.minambiente.gov.co/cambio-climatico/conozca-los-beneficios-tributarios-para-empresas-que-ayuden-a-proteger-el-medio-ambiente/ ',
     },
@@ -384,8 +384,8 @@ export default {
     {
       referencia:
         'Uribe, D. (2018). <em>Inversión de Impacto como un mecanismo para la innovación y la escalabilidad</em>. AFE. ',
-      link:
-        'https://afecolombia.org/inversion-de-impacto-como-un-mecanismo-para-la-innovacion-y-la-escalabilidad/ ',
+      //link:
+      //'https://afecolombia.org/inversion-de-impacto-como-un-mecanismo-para-la-innovacion-y-la-escalabilidad/ ',
     },
   ],
   creditos: [

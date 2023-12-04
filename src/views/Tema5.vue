@@ -106,12 +106,12 @@
                       ul.lista-ul--color.fa-ul.mb-0
                         li.mb-0 
                           i.fas.fa-check-circle
-                          | Base de datos
+                          | Base de datos.
                     td
                       ul.lista-ul--color.fa-ul.mb-0
                         li.mb-0 
                           i.fas.fa-check-circle
-                          | Difícil predicción de todas las variables
+                          | Difícil predicción de todas las variables.
                   tr.bg-white
                     td 
                       ul.lista-ul--color.fa-ul.mb-0
@@ -122,7 +122,7 @@
                       ul.lista-ul--color.fa-ul.mb-0
                         li.mb-0 
                           i.fas.fa-check-circle
-                          | La fiabilidad solo se basa de los datos que tengas.
+                          | La fiabilidad solo se basa en los datos que se tengan.
                   tr.bg-2
                     td 
                       ul.lista-ul--color.fa-ul.mb-0
@@ -149,7 +149,7 @@
               .bloque-texto-g__img(
                 :style="{'background-image': `url(${require('@/assets/curso/temas/t5/img3.png')})`}")
               .bloque-texto-g__texto.p-5
-                p.mb-0 La tasa de retorno conocida como tasa de rentabilidad, es la productividad que da una inversión siendo el indicador adecuado para medir la inversión, reflejando así el margen de pérdidas o beneficios obtenidos en el periodo de tiempo que se realizó la inversión. Para medir la tasa de retorno se debe aplicar la siguiente fórmula: Tasa de rentabilidad–= [(Valor final - valor inicial) / Valor inicial] x 100
+                p.mb-0 La tasa de retorno, conocida como tasa de rentabilidad, es la productividad que da una inversión, siendo el indicador adecuado para medir la inversión, reflejando así el margen de pérdidas o beneficios obtenidos en el periodo de tiempo que se realizó la inversión. Para medir la tasa de retorno se debe aplicar la siguiente fórmula: Tasa de rentabilidad–= [(Valor final - valor inicial) / Valor inicial] x 100
 
             p(data-aos="fade") En la tasa de retorno también se encuentra la tasa interna de retorno. Cuando se habla de la tasa interna de retorno se hace referencia a una tasa porcentual que indica la rentabilidad anual que genera el proyecto. Es un instrumento más que hay para lograr evaluar un plan sin perder de vista el total del proyecto.
 
@@ -160,7 +160,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4(data-aos="fade-right")
                 .bg-6.p-3
-                  h3.text-center.text-white.mb-0 Tasa interna de retorno.
+                  h3.text-center.text-white.mb-0 Tasa interna de retorno
                 .bg-7.p-3.px-md-4
                   .row.align-items-center 
                     .col-md-6.mb-3.mb-md-0
@@ -169,7 +169,7 @@
                       p #[b N =] es el número de periodos.
                       p #[b I =] es el valor de la inversión inicial.
                     .col-md-6
-                      img(src='@/assets/curso/temas/t5/form.svg', alt='')
+                      img(src='@/assets/curso/temas/t5/form.svg', alt='La imagen muestra un gráfico específicamente sobre la "Tasa interna de retorno", que es un método usado para estimar la rentabilidad de inversiones potenciales. La fórmula presentada es para calcular el Valor Actual Neto (VAN), que se utiliza para determinar el valor presente de una serie de flujos de caja futuros, descontados a la tasa interna de retorno (TIR).')
               .col-lg-4.col-7.mb-4(data-aos="fade-left")
                 img(src='@/assets/curso/temas/t5/img3.svg', alt='')
 

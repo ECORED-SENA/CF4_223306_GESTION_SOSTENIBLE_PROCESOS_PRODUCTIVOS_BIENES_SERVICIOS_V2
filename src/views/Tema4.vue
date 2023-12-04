@@ -23,7 +23,7 @@
         p Las entidades encargadas de gestionar los recursos hídricos para grandes usuarios, acueductos urbanos, puentes verdes y pequeños usuarios, son responsables de entregar un programa de uso eficiente y económico para la conservación del agua según lo establece la Ley 373 en 1997, el objetivo de la ley es la de establecer actividades para asegurar la conservación y protección de los recursos hídricos.
         .cajon.color-acento-botones.p-4.mb-4
           p.mb-0 Un programa es un mecanismo de planificación sistemática para mantener el suministro de agua existente en un área determinada para satisfacer la demanda de agua requerida por la población de acuerdo con la situación ambiental actual. 
-        p El programa de “Economía y uso efectivo del agua” incluye una serie de subprogramas que posibilitan el desarrollo de planes y estrategias con el objetivo de desarrollar protocolos para la gestión del recurso hídrico: educación ambiental, medición, aprovechamiento y reutilización de aguas pluviales y bajo consumo; también trabaja las tecnología y áreas de especial manejo, incentivos o penalizaciones. 
+        p El programa de “Economía y uso efectivo del agua” incluye una serie de subprogramas que posibilitan el desarrollo de planes y estrategias con el objetivo de desarrollar protocolos para la gestión del recurso hídrico: educación ambiental, medición, aprovechamiento y reutilización de aguas pluviales y bajo consumo; también trabaja las tecnologías y áreas de especial manejo, incentivos o penalizaciones.
       .col-lg-4.col-7.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/img2.png', alt='')
 
@@ -69,7 +69,7 @@
               p Este proyecto se enfoca en implementar actividades que mejoren la recolección de agua de lluvia y fomenten la reutilización del agua en áreas residenciales y en la red de agua.
           .row.justify-content-center(titulo="Tecnologías de bajo consumo")
             .col-md-10.mb-4.mb-md-0
-              p Tiene como objetivo promover e implementar acciones a favor de la implementación de dispositivos, sistemas y herramientas de bajo consumo de agua que promuevan el uso eficiente y económico del agua en la red de abastecimiento de agua terrestre Acuerdo entre usuarios.
+              p El objetivo es fomentar e implementar acciones que respalden la adopción de dispositivos, sistemas y herramientas que minimicen el consumo de agua, promoviendo así un uso eficiente y económico del recurso hídrico en la red de abastecimiento terrestre, estableciendo un acuerdo de colaboración entre los usuarios.
           .row.justify-content-center(titulo="Incentivos tarifarios, tributarios y sanciones")
             .col-md-10.mb-4.mb-md-0
               p Definen herramientas que establecen lineamientos en las normas de plomería para promover el uso eficiente y económico de los recursos hídricos y evitar la infrautilización.
@@ -129,7 +129,7 @@
       .col-lg-8.mb-4(data-aos="fade-right")
         .cajon-b.color-acento-contenido.p-3.ps-0.mb-4
           p.mb-0 El Programa de Eficiencia Energética Industrial de Colombia tiene como objetivo promover el mercado de productos y servicios energéticamente eficientes mediante el fortalecimiento de los reglamentos y normas técnicas, la creación de capacidades en los Sistemas de Gestión de Energía y Calidad (SGEn) y la mejora de los procesos. En este proyecto se evaluaron 180 industrias y se capacitaron cerca de 100 técnicos de industrias ubicadas en siete regiones del país, tales como: Cundinamarca Boyacá, Santander y Norte de Santander, Egy Cafetero, Atlántico y Valle del Cauca.
-        p Como resultado, SGEn mide y divulga un ahorro total de optimización de 1.287 TJ/año, o 87.707,42 toneladas de CO2/año, lo que contribuye al objetivo de la industria nacional de PROURE para 2017-2022 y se estima en un 5 %. En la siguiente figura se muestra el impacto de esa implementación a nivel general Colombia:
+        p Como resultado, SGEn mide y divulga un ahorro total de optimización de 1.287 TJ/año, o 87.707,42 toneladas de CO#[sub 2]/año, lo que contribuye al objetivo de la industria nacional de PROURE para 2017-2022 y se estima en un 5 %. En la siguiente figura se muestra el impacto de esa implementación a nivel general Colombia:
       .col-lg-4.col-7.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/img6.png', alt='')
 
@@ -175,9 +175,11 @@
         .row.align-items-center.justify-content-around
 
           .col-lg-5.col-8.mb-4
-            img(src='@/assets/curso/temas/t4/img8.svg', alt='')
+            img(src='@/assets/curso/temas/t4/img8.svg', alt='La imagen detalla fórmulas relacionadas con la eficiencia energética. Se sabe que: Energía consumida = Energía aprovechada + Pérdidas. Pérdidas: % Pérdidas = Pérdidas / Energía consumida. Eficiencia del proceso: Eficiencia del proceso = Energía aprovechada / Energía consumida. Entonces: Eficiencia del proceso = 100% - % Pérdidas')
           .col-lg-7.mb-4
-            .bg-white.bx-sw1.br-21.p-4   
+            .bx-sw1.br-21
+              img(src='@/assets/curso/temas/t4/formulas.svg', alt='')
+            //.bg-white.bx-sw1.br-21.p-4   
               .row.align-items-center.mb-3
                 .col-lg-4
                   ul.lista-ul--color.fa-ul
@@ -216,7 +218,7 @@
           img(src='@/assets/curso/temas/t4/tarj2-ico1.svg' alt='')
           .tarjeta.bg-8
             .p-4
-              p.text-center La energía consumida: es igual a la energía aprovecha más pérdidas. Las pérdidas son las que se deben reducir con los proyectos de eficiencia energética que impulsen a maximizar el aprovechamiento. 
+              p.text-center La energía consumida: es igual a la energía aprovechada más pérdidas. Las pérdidas son las que se deben reducir con los proyectos de eficiencia energética que impulsen a maximizar el aprovechamiento. 
       .col-lg-4.col-md-6.mb-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t4/tarj2-ico2.svg' alt='')
