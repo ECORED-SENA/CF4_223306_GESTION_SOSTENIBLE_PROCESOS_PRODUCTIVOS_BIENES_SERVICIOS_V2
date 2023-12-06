@@ -192,12 +192,12 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 La inversión de impacto también es una ganancia financiera, ya que los costos sociales van de la mano con los beneficios financieros. Una indagación de un rendimiento financiero no califica una inversión social en una donación caritativa o una donación no reembolsable. Lo que distingue a la inversión social de la inversión tradicional es que la rentabilidad financiera está estrechamente relacionada con el desempeño social y depende del logro de los objetivos sociales: específicamente, los inversores solo recibirán productividad y rentabilidad financiera si esto se logra a eso se le puede llamar mínimo impacto social.
 
-    p.mb-4(data-aos="fade") El impacto social debe ser medido y convertido en métricas financieras, , como se muestra en la siguiente infografía:
+    p.mb-4(data-aos="fade") El impacto social debe ser medido y convertido en métricas financieras, como se muestra en la siguiente infografía:
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade")
-          p.mb-0 #[b Figura  3.]  Inversión con impacto social
+          p.mb-0 #[b Figura 3.]  Inversión con impacto social
         figure(data-aos="fade-down")
           img(src='@/assets/curso/temas/t1/fig3.svg', alt='La infografía muestra la interconexión entre el capital, las motivaciones detrás de su asignación y las entidades que se benefician de él dentro del paradigma de la inversión con impacto social.')
           figcaption.mt-3 Nota. Elaborado a partir de Bustamante (2016)

@@ -175,10 +175,10 @@
         .row.align-items-center.justify-content-around
 
           .col-lg-5.col-8.mb-4
-            img(src='@/assets/curso/temas/t4/img8.svg', alt='La imagen detalla fórmulas relacionadas con la eficiencia energética. Se sabe que: Energía consumida = Energía aprovechada + Pérdidas. Pérdidas: % Pérdidas = Pérdidas / Energía consumida. Eficiencia del proceso: Eficiencia del proceso = Energía aprovechada / Energía consumida. Entonces: Eficiencia del proceso = 100% - % Pérdidas')
+            img(src='@/assets/curso/temas/t4/img8.svg', alt='')
           .col-lg-7.mb-4
             .bx-sw1.br-21
-              img(src='@/assets/curso/temas/t4/formulas.svg', alt='')
+              img(src='@/assets/curso/temas/t4/formulas.svg', alt='La imagen detalla fórmulas relacionadas con la eficiencia energética. Se sabe que: Energía consumida = Energía aprovechada + Pérdidas. Pérdidas: % Pérdidas = Pérdidas / Energía consumida. Eficiencia del proceso: Eficiencia del proceso = Energía aprovechada / Energía consumida. Entonces: Eficiencia del proceso = 100% - % Pérdidas')
             //.bg-white.bx-sw1.br-21.p-4   
               .row.align-items-center.mb-3
                 .col-lg-4
