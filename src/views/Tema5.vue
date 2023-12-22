@@ -169,7 +169,7 @@
                       p #[b N =] es el número de periodos.
                       p #[b I =] es el valor de la inversión inicial.
                     .col-md-6
-                      img(src='@/assets/curso/temas/t5/form.svg', alt='La imagen muestra un gráfico específicamente sobre la "Tasa interna de retorno", que es un método usado para estimar la rentabilidad de inversiones potenciales. La fórmula presentada es para calcular el Valor Actual Neto (VAN), que se utiliza para determinar el valor presente de una serie de flujos de caja futuros, descontados a la tasa interna de retorno (TIR).')
+                      img(src='@/assets/curso/temas/t5/form.svg', alt='La imagen muestra un gráfico específicamente sobre la: Tasa interna de retorno; que es un método usado para estimar la rentabilidad de inversiones potenciales. La fórmula presentada es para calcular el Valor Actual Neto (VAN), que se utiliza para determinar el valor presente de una serie de flujos de caja futuros, descontados a la tasa interna de retorno (TIR).')
               .col-lg-4.col-7.mb-4(data-aos="fade-left")
                 img(src='@/assets/curso/temas/t5/img3.svg', alt='')
 

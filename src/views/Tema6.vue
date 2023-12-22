@@ -244,7 +244,7 @@
           .col-lg-2.col-md-2.col-4.mb-3.mb-md-0
             img.m-auto(src='@/assets/curso/temas/t6/dest.svg' alt='' style="width: 130px;")
           .col-lg-10.col-md-10
-            p.mb-0.text-white Además de buscar la información en la red se recomienda ver el video sobre: “Indicadores ambientales” que se encuentra en el material complementario de este componente formativo.
+            p.mb-0.text-white Además, de buscar la información en la red se recomienda ver el video sobre: “Indicadores ambientales”, que se encuentra en el material complementario de este componente formativo.
 
 
     Separador

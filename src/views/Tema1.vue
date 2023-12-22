@@ -115,7 +115,7 @@
       img(src='@/assets/curso/temas/t1/fig2.svg', alt='La infografía ilustra la gestión de recursos tanto renovables como finitos en un sistema circular. Los renovables, derivados de la agricultura, se transforman en materias primas bioquímicas y pueden regenerarse como biogás o reingresar al ciclo. Los recursos finitos, tras su uso en productos y servicios, se someten a un ciclo de reutilización buscando su restauración y minimización de desechos. En este sistema, el consumidor juega un papel vital, enfocándose en compartir, mantener y reducir impactos negativos.')
       figcaption.mt-3 Nota. Elaborado a partir de Ceiba (2020)
 
-    p.mb-4(data-aos="fade") Se busca que los portafolios de la economía circular sean innovadores, con el fin de experimentar nuevos proyectos en el ámbito internacional, ofreciendo un intercambio de experiencias y nuevos conocimientos a la economía. Es por eso por lo que entre más innovador sea el portafolio, más va a llamar la atención de las empresas se recomienda que cuente con las siguientes características:
+    p.mb-4(data-aos="fade") Se busca que los portafolios de la economía circular sean innovadores, con el fin de experimentar nuevos proyectos en el ámbito internacional, ofreciendo un intercambio de experiencias y nuevos conocimientos a la economía. Es por eso por lo que entre más innovador sea el portafolio, más va a llamar la atención de las empresas; se recomienda que cuente con las siguientes características:
 
     SlyderF.mb-5(columnas="col-lg-4 col-md-6" data-aos="fade-down")
       .tarjeta-avatar

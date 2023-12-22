@@ -120,7 +120,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           p.mb-0 #[b Figura 7.] Primer balance de energía útil para Colombia (BEU) – 2018
-        img(src='@/assets/curso/temas/t4/fig7.png', alt='El diagrama ilustra la distribución de diferentes fuentes de energía hacia diversos sectores en un escenario nacional. las fuentes, que incluyen diesel oil, bagazo, entre otras, se dirigen hacia sectores como comercial/público, industrial, residencial y transporte. en el resumen del flujo energético, se destaca la energía útil con 407, ineficiencia con 511 y perdidas” con 226, utilizando la unidad de medida “PJ”.')
+        img(src='@/assets/curso/temas/t4/fig7.png', alt='El diagrama ilustra la distribución de diferentes fuentes de energía hacia diversos sectores en un escenario nacional. Las fuentes, que incluyen diesel, oil, bagazo, entre otras, se dirigen hacia sectores como comercial/público, industrial, residencial y transporte. En el resumen del flujo energético, se destaca la energía útil con 407, ineficiencia con 511 y perdidas con 226, utilizando la unidad de medida “PJ”.')
     
     .bg-10.w-fit.py-2.px-3.mb-4(data-aos="fade")
       h4.mb-0 Proyecto de eficiencia energética industrial en Colombia 2016-2019
@@ -128,7 +128,7 @@
     .row.align-items-center.justify-content-center
       .col-lg-8.mb-4(data-aos="fade-right")
         .cajon-b.color-acento-contenido.p-3.ps-0.mb-4
-          p.mb-0 El Programa de Eficiencia Energética Industrial de Colombia tiene como objetivo promover el mercado de productos y servicios energéticamente eficientes mediante el fortalecimiento de los reglamentos y normas técnicas, la creación de capacidades en los Sistemas de Gestión de Energía y Calidad (SGEn) y la mejora de los procesos. En este proyecto se evaluaron 180 industrias y se capacitaron cerca de 100 técnicos de industrias ubicadas en siete regiones del país, tales como: Cundinamarca Boyacá, Santander y Norte de Santander, Egy Cafetero, Atlántico y Valle del Cauca.
+          p.mb-0 El Programa de Eficiencia Energética Industrial de Colombia tiene como objetivo promover el mercado de productos y servicios energéticamente eficientes mediante el fortalecimiento de los reglamentos y normas técnicas, la creación de capacidades en los Sistemas de Gestión de Energía y Calidad (SGEn) y la mejora de los procesos. En este proyecto se evaluaron 180 industrias y se capacitaron cerca de 100 técnicos de industrias ubicadas en siete regiones del país, tales como: Cundinamarca, Boyacá, Santander y Norte de Santander, Eje Cafetero, Atlántico y Valle del Cauca.
         p Como resultado, SGEn mide y divulga un ahorro total de optimización de 1.287 TJ/año, o 87.707,42 toneladas de CO#[sub 2]/año, lo que contribuye al objetivo de la industria nacional de PROURE para 2017-2022 y se estima en un 5 %. En la siguiente figura se muestra el impacto de esa implementación a nivel general Colombia:
       .col-lg-4.col-7.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/img6.png', alt='')

@@ -39,7 +39,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj-img3.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-4
               h4.mt-5 ESENCIA
-              p Luego de tener los dos primero niveles se consigue la esencia que consiste en que la entidad esté centrada en la sostenibilidad con todos los procesos medidos en su impacto.
+              p Luego de tener los dos primero niveles, se consigue la esencia que consiste en que la entidad esté centrada en la sostenibilidad con todos los procesos medidos en su impacto.
       .col-9.col-md-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario
           .tarjeta-flip__contenedor
@@ -53,7 +53,7 @@
         .col-lg-2.col-md-3.mb-4.mb-lg-0
           img(src='@/assets/curso/temas/t2/img2.svg', alt='')
         .col-lg-10.col-md-9
-          p.mb-0 El principio detrás de estas categorías es recopilar información sobre estándares de sostenibilidad en todo el mundo, incluido el Índice de sostenibilidad Dow Jones, ISO 26000, Pacto mundial, Iniciativa de informes globales, SR10, Sociedades BIC (colectivas y buenas), Objetivos de desarrollo sostenible, entre otros, y tema Dentro de cada uno es parte de una metodología de evaluación de cuatro frentes: orientación estratégica, económico-ética, social y ambiental (Icontec, 2022). Para postularse a un sello de sostenibilidad es necesario considerar los siguientes elementos como requisito:
+          p.mb-0 El principio detrás de estas categorías es recopilar información sobre estándares de sostenibilidad en todo el mundo, incluido el Índice de sostenibilidad Dow Jones, ISO 26000, Pacto mundial, Iniciativa de informes globales, SR10, Sociedades BIC (colectivas y buenas), Objetivos de desarrollo sostenible, entre otros, y tema Dentro de cada uno es parte de una metodología de evaluación de cuatro frentes: orientación estratégica, económico-ética, social y ambiental (Icontec, 2022). Para postularse a un sello de sostenibilidad es necesario considerar los siguientes elementos, como requisito:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -73,7 +73,7 @@
                   ul.lista-ul.fa-ul.circulo.mb-0
                     li.mb-0 
                       i.fas.fa-circle
-                      | Toda la organización estará en el alcance de la certificación.
+                      span.mb-0 Toda la organización estará en el alcance de la certificación.
               tr.bg-2
                 td.fw-bold Autoevaluación
                 td 
@@ -93,7 +93,7 @@
                   ul.lista-ul.fa-ul.circulo.mb-0
                     li 
                       i.fas.fa-circle
-                      | Revisión de resultados de autoevaluación por ICONTEC.
+                      span.mb-0 Revisión de resultados de autoevaluación por ICONTEC.
                     li 
                       i.fas.fa-circle
                       | Auditoría en sitio, remota o parcialmente remota.
@@ -111,7 +111,7 @@
                       i.fas.fa-circle
                       | Categorización.
     
-    p.mb-4(data-aos="fade") Los sellos de sostenibilidad son un garante de beneficios para las empresas, a nivel de mercado no todas las empresas tienen estos identificativos y cada vez se harán más necesarios en busca de reducir el impacto negativo de las empresas en el ambiente; enseguida se presentan los beneficios para las empresas o entidades que los portan:                 
+    p.mb-4(data-aos="fade") Los sellos de sostenibilidad son un garante de beneficios para las empresas, a nivel de mercado no todas las empresas tienen estos identificativos y cada vez se harán más necesarios en busca de reducir el impacto negativo de las empresas en el ambiente; enseguida, se presentan los beneficios para las empresas o entidades que los portan:                 
 
     .tarjeta.bg-17.p-4.py-5.mb-5(data-aos="fade-down")
       SlyderA(tipo="b")
@@ -244,7 +244,7 @@
             td El valor de la inversión en control y mejoramiento ambiental puede ser deducido de la base de ingresos hasta un monto que no exceda el 20% de los ingresos netos (Artículo 158-2 del Código Tributario Colombiano).
           tr.bg-2
             td.fw-bold Rentas exentas
-            td Están exentos del pago del impuesto sobre la renta la venta de energía generada a partir de recursos eólicos, biomasa o subproductos agrícolas que reduzcan las emisiones de gases de efecto invernadero y la venta de certificados de reducción de emisiones de CO2, así como las rentas por servicios energéticos ecoturísticos (artículos 207-2) N°1 y N°5 del Código Tributario Colombiano).
+            td Están exentos del pago del impuesto sobre la renta la venta de energía generada a partir de recursos eólicos, biomasa o subproductos agrícolas que reduzcan las emisiones de gases de efecto invernadero y la venta de certificados de reducción de emisiones de CO2, así como las rentas por servicios energéticos ecoturísticos (artículos 207-2 N°1 y N°5 del Código Tributario Colombiano).
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.mb-4
       .bloque-texto-g__img(
@@ -341,7 +341,7 @@
           .col-lg-2.col-md-2.col-4.mb-3.mb-md-0
             img.m-auto(src='@/assets/curso/temas/t4/dest.svg' alt='' style="width: 130px;")
           .col-lg-9.col-md-10
-            p.mb-0.text-white Para ampliar el tema se recomienda ver el video: “Ecoinnovación" que se encuentra en el material complementario de este componente formativo.
+            p.mb-0.text-white Para ampliar el tema se recomienda ver el video: “Ecoinnovación” que se encuentra en el material complementario de este componente formativo.
 
 
     Separador
@@ -466,7 +466,7 @@
           .col-lg-2.col-md-2.col-4.mb-3.mb-md-0
             img.m-auto(src='@/assets/curso/temas/t4/dest.svg' alt='' style="width: 130px;")
           .col-lg-9.col-md-10
-            p.mb-0.text-white Para ampliar el tema sobre el eco diseño, se recomienda ver el video sobre: “¿Qué es el eco diseño? (2020) que se encuentra en el material complementario de este componente formativo.
+            p.mb-0.text-white Para ampliar el tema sobre el ecodiseño, se recomienda analizar el video: “¿Qué es el ecodiseño?”, que se encuentra en el material complementario de este componente formativo.
 
 
     Separador
@@ -486,7 +486,7 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.align-items-center.justify-content-center
 
-          p.mb-4(data-aos="fade") Para tener mayor claridad del impacto de los productos en el medio ambiente los investigadores han trabajado en descubrir los tiempos en los que se degrada cada uno de los materiales con los que se trabaja habitualmente la fabricación de productos, tenga en cuenta la siguiente información para la elección de la materia prima de trabajo en sus productos, esta información es basada en Efimarket (2017):
+          p.mb-4(data-aos="fade") Para tener mayor claridad del impacto de los productos en el medio ambiente, los investigadores han trabajado en descubrir los tiempos en los que se degrada cada uno de los materiales con los que se trabaja habitualmente la fabricación de productos, tenga en cuenta la siguiente información para la elección de la materia prima de trabajo en sus productos, esta información es basada en Efimarket (2017):
 
           .tarjeta.bg-white.bx-sw1.p-4.p-lg-5
             LineaTiempoE.color-primario
@@ -519,7 +519,7 @@
                   figure
                     img(src='@/assets/curso/temas/t2/linea2-img5.png', alt='')
                 .col-lg-7.mb-4.mb-lg-0.mt-2
-                  p Para los microorganismos del suelo es muy difícil realizar su descomposición, sea cual sea las dimensiones y las formas (como botellas de vidrio, vasos, gafas de cristal, etc…). El vidrio debe ser reciclado para este fin o su huella es casi eterna.
+                  p Para los microorganismos del suelo es muy difícil realizar su descomposición, sea cual sea las dimensiones y las formas (como botellas de vidrio, vasos, gafas de cristal, etc.). El vidrio debe ser reciclado para este fin o su huella es casi eterna.
         
 
     Separador
@@ -540,7 +540,7 @@
           img(src='@/assets/curso/temas/t2/tarj5-ico2.svg' alt='')
           .tarjeta.bg-18
             .p-4
-              h5.text-center Tratamiento de agua residuales
+              h5.text-center Tratamiento de aguas residuales
       .col-lg-3.col-md-6.mb-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t2/tarj5-ico3.svg' alt='')
